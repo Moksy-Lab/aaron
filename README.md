@@ -36,23 +36,23 @@ Introducing **Aaron**, a cutting-edge eLearning template tailored to revolutioni
 
 ### Tags:
 - #eLearningTemplate
-- #MayFair
+- #Aaron
 - #ResponsiveDesign
 - #OnlineEducation
 - #InteractiveUI
 - #Education2023
 
-### What is MayFair :
+### What is Aaron :
 "Aaron is a top-tier eLearning template, designed to elevate online educational platforms. With its responsive design and interactive UI, it stands out as a choice for educators aiming for excellence. Experience the future of eLearning with Aaron."
 
-### Why Choose MayFair?
+### Why Choose Aaron?
 **High Quality:** Built to the latest web standards ensuring quality and integrity.
 
 **SEO Ready:** Integrated with best practices in SEO, ensuring your platform's online visibility.
 
 **User-Centric:** Designed with user experience at its core.
 
-Harness the power of **MayFair** for a transformative eLearning journey.
+Harness the power of **Aaron** for a transformative eLearning journey.
 
 
 ### Experience Moksy Live
@@ -75,13 +75,13 @@ Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.c
 Every team member at Moksy has dedicated themselves to serve the community. Your support fuels our motivation and ensures we can continue to offer these resources for free.
 
 ### Impressed with Our Template? 🌟
-<a href="https://github.com/Moksy-Lab/mayfair">
+<a href="https://github.com/Moksy-Lab/Aaron">
     Give us a star on GitHub and help us reach more developers! ⭐️
 </a>
 
 ### Contribute & Collaborate
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/>
-<a href="https://github.com/Moksy-Lab/mayfair">
+<a href="https://github.com/Moksy-Lab/Aaron">
 Join our community and contribute to an ever-evolving platform.
 </a>
 
