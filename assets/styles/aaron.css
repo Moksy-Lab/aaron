@@ -49,6 +49,9 @@
 .aboutp3dce575962b3c369 .jumbotron {
 	background-color: var(--main-Background-Color);
 }
+.aboutp3dce575962b3c369 .DescriptionHeading{
+    color: var(--black-Color);
+}
 .aboutp3dce575962b3c369 .badge {
 	color: #0099ff;
 	background-color: var(--main-Background-Color);
@@ -71,4 +74,24 @@
 .foremanfto18j2qmk8 strong {
     font-size: 25px;
 	font-weight: 500;
+}
+.foremanfto18j2qmk8 p {
+    color: var(--black-Color);
+}
+/* aboutbf5e9e9e7ee746db */
+.aboutbf5e9e9e7ee746db .DescriptionHeading {
+    font-size: var(--heading);
+    color: var(--black-Color);
+}
+.aboutbf5e9e9e7ee746db .DescriptionPara{
+    color: var(--black-Color)
+}
+
+.aboutbf5e9e9e7ee746db .searchBtn{
+    padding: var(--button-padding);
+	background-color: var(--secondary-Color);
+	border: none;
+	color: var(--main-Background-Color);
+	font-weight: var(--button-font-weight);
+	border-radius: var(--button-border-radius);
 }
