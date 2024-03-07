@@ -16,9 +16,13 @@
 	--black-Color: #232323;
 	--main-Background-Color: #ffffff;
 	--secondary-Font: "Montserrat", sans-serif;
-    --button-padding: 5px 25px 5px 25px; 
-    --button-border-radius: 5px 5px 5px 5px;
-    --button-font-weight: 600;
+	--button-padding: 5px 25px 5px 25px;
+	--button-border-radius: 5px 5px 5px 5px;
+	--button-font-weight: 600;
+	--heading: 35px;
+}
+.fdb-block {
+	padding: 30px 0;
 }
 /* headerhdmdp7lm3ya */
 .headerhdmdp7lm3ya .navbar-light .navbar-nav .nav-link {
@@ -32,30 +36,39 @@
 .headerhdmdp7lm3ya .fab {
 	color: var(--black-Color);
 }
-.headerhdmdp7lm3ya .btn-outline-primary{
-    padding: var(--button-padding);
-    background-color: var(--secondary-Color);
-    border: none;
-    color: var(--main-Background-Color);
-    font-weight: var(--button-font-weight);
-    border-radius: var(--button-border-radius);
+.headerhdmdp7lm3ya .btn-outline-primary,
+.headerhdmdp7lm3ya .btn-outline-primary:not(:disabled):not(.disabled):active {
+	padding: var(--button-padding);
+	background-color: var(--secondary-Color);
+	border: none;
+	color: var(--main-Background-Color);
+	font-weight: var(--button-font-weight);
+	border-radius: var(--button-border-radius);
 }
 /* aboutp3dce575962b3c369 */
-.aboutp3dce575962b3c369 .jumbotron{
-    background-color: var(--main-Background-Color);
+.aboutp3dce575962b3c369 .jumbotron {
+	background-color: var(--main-Background-Color);
 }
 .aboutp3dce575962b3c369 .badge {
-    color: #0099ff;
-    background-color: var(--main-Background-Color);
+	color: #0099ff;
+	background-color: var(--main-Background-Color);
 }
-.aboutp3dce575962b3c369 .DescriptionPara{
-    color: var(--black-Color);
+.aboutp3dce575962b3c369 .DescriptionPara {
+	color: var(--black-Color);
 }
-.aboutp3dce575962b3c369 .searchBtn{
-    padding: var(--button-padding);
-    background-color: var(--secondary-Color);
-    border: none;
-    color: var(--main-Background-Color);
-    font-weight: var(--button-font-weight);
-    border-radius: var(--button-border-radius);
+.aboutp3dce575962b3c369 .searchBtn {
+	padding: var(--button-padding);
+	background-color: var(--secondary-Color);
+	border: none;
+	color: var(--main-Background-Color);
+	font-weight: var(--button-font-weight);
+	border-radius: var(--button-border-radius);
+}
+/* foremanfto18j2qmk8 */
+.foremanfto18j2qmk8 h1 {
+	font-size: var(--heading);
+}
+.foremanfto18j2qmk8 strong {
+    font-size: 25px;
+	font-weight: 500;
 }
