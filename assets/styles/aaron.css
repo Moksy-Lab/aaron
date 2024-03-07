@@ -16,9 +16,11 @@
 	--black-Color: #232323;
 	--main-Background-Color: #ffffff;
 	--secondary-Font: "Montserrat", sans-serif;
-    --button-padding: 5px 25px 5px 25px;
+    --button-padding: 5px 25px 5px 25px; 
+    --button-border-radius: 5px 5px 5px 5px;
+    --button-font-weight: 600;
 }
-
+/* headerhdmdp7lm3ya */
 .headerhdmdp7lm3ya .navbar-light .navbar-nav .nav-link {
 	color: var(--text-Color);
 	font-weight: 500;
@@ -34,6 +36,26 @@
     padding: var(--button-padding);
     background-color: var(--secondary-Color);
     border: none;
-    color: white;
-    font-weight: 600
+    color: var(--main-Background-Color);
+    font-weight: var(--button-font-weight);
+    border-radius: var(--button-border-radius);
+}
+/* aboutp3dce575962b3c369 */
+.aboutp3dce575962b3c369 .jumbotron{
+    background-color: var(--main-Background-Color);
+}
+.aboutp3dce575962b3c369 .badge {
+    color: #0099ff;
+    background-color: var(--main-Background-Color);
+}
+.aboutp3dce575962b3c369 .DescriptionPara{
+    color: var(--black-Color);
+}
+.aboutp3dce575962b3c369 .searchBtn{
+    padding: var(--button-padding);
+    background-color: var(--secondary-Color);
+    border: none;
+    color: var(--main-Background-Color);
+    font-weight: var(--button-font-weight);
+    border-radius: var(--button-border-radius);
 }
