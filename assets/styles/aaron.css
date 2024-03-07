@@ -3,8 +3,28 @@
 *{
     font-family: "Poppins", sans-serif;
 }
+:root {
+    --primary-Color: #3DB2D5;
+    --secondary-Color: #003D69;
+    --text-Color: #000000;
+    --alert-Color: #0099FF;
+    --success-Color: #8BE0DD;
+    --warning-Color: #EE8800;
+    --error-Color: #FE514C;
+    --grey-Color: #7A7A7A;
+    --black-Color: #232323;
+    --main-Background-Color: #FFFFFF;
+  }
+
+
+
+
+
+
+
 
 .headerhdmdp7lm3ya .navbar-light .navbar-nav .nav-link{
     color: #000000;
     font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
 }
