@@ -26,7 +26,9 @@
     --jumbotron-padding: 30px 16px;
 
 	--button-font-weight: 500;
-	--heading-large: 35px;
+
+    --heading-large:40px;
+	--heading-medium: 35px;
     
 }
 .fdb-block {
@@ -65,6 +67,7 @@
 }
 .aboutp3dce575962b3c369 .DescriptionHeading {
 	color: var(--black-Color);
+    font-size: var(--heading-large);
 }
 .aboutp3dce575962b3c369 .badge {
 	color: var(--alert-Color);
@@ -89,7 +92,7 @@
 }
 /* foremanfto18j2qmk8 */
 .foremanfto18j2qmk8 h1 {
-	font-size: var(--heading);
+	font-size: var(--heading-medium);
 }
 .foremanfto18j2qmk8 strong {
 	font-size: 25px;
@@ -100,7 +103,7 @@
 }
 /* aboutbf5e9e9e7ee746db */
 .aboutbf5e9e9e7ee746db .DescriptionHeading {
-	font-size: var(--heading);
+	font-size: var(--heading-medium);
 	color: var(--black-Color);
 }
 .aboutbf5e9e9e7ee746db .DescriptionPara {
@@ -130,7 +133,7 @@
 }
 /* abouth66a519b827a7d261 */
 .abouth66a519b827a7d261 .DescriptionHeading{
-    font-size: var(--heading);
+    font-size: var(--heading-medium);
 	color: var(--black-Color);
 }
 .abouth66a519b827a7d261 .DescriptionPara{
@@ -146,11 +149,11 @@
 }
 /* testimonialtmq7s80wxl3 */
 .testimonialtmq7s80wxl3 h1{
-    font-size: var(--heading);
+    font-size: var(--heading-medium);
 }
 /* counteraf598102c9dad94e */
 .counteraf598102c9dad94e h2 {
-    font-size: var(--heading);
+    font-size: var(--heading-medium);
     color: var(--secondary-Color);
 }
 .counteraf598102c9dad94e h4 {
