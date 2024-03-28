@@ -232,6 +232,9 @@
 .footerb6c9fcc0294384085 .form-control:focus {
     background: var(--main-Background-Color)
 }
+.footerb6c9fcc0294384085 .mini-footer{
+    padding: 10px 0;
+}
 .footerb6c9fcc0294384085 .mini-footer p a {
     display: none;
 }
