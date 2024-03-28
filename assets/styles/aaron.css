@@ -15,7 +15,6 @@
 	--grey-Color: #7a7a7a;
 	--black-Color: #232323;
 	--main-Background-Color: #ffffff;
-
 	--secondary-Font: "Montserrat", sans-serif;
 
 	--button-padding: 5px 25px;
@@ -23,6 +22,8 @@
 	--button-border-radius: 5px;
     --logo-border-radius: 30px;
 
+
+    --jumbotron-padding: 30px 16px;
 
 	--button-font-weight: 500;
 	--heading-large: 35px;
@@ -60,6 +61,7 @@
 /* aboutp3dce575962b3c369 */
 .aboutp3dce575962b3c369 .jumbotron {
 	background-color: var(--main-Background-Color);
+    border-radius: 0px;
 }
 .aboutp3dce575962b3c369 .DescriptionHeading {
 	color: var(--black-Color);
@@ -79,6 +81,11 @@
 	color: var(--main-Background-Color);
 	font-weight: var(--button-font-weight);
 	border-radius: var(--button-border-radius);
+}
+@media (min-width: 576px){
+    .aboutp3dce575962b3c369 .jumbotron {
+        padding: var(--jumbotron-padding);
+    }
 }
 /* foremanfto18j2qmk8 */
 .foremanfto18j2qmk8 h1 {
