@@ -182,6 +182,15 @@
 .testimonialtmq7s80wxl3 h1{
     font-size: var(--heading-large);
 }
+.testimonialtmq7s80wxl3 .lead{
+    font-size: var(--heading-medium);
+}
+.testimonialtmq7s80wxl3 .fdb-block{
+    padding: var(--section-padding);
+}
+.testimonialtmq7s80wxl3 .fdb-block .fdb-box{
+    
+}
 /* counteraf598102c9dad94e */
 .counteraf598102c9dad94e h2 {
     font-size: var(--heading-large);
