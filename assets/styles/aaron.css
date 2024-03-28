@@ -211,6 +211,7 @@
 	color: var(--main-Background-Color);
 	font-weight: var(--button-font-weight);
 	border-radius: var(--button-border-radius);
+    margin-top: 10px;
 }
 /* footerb6c9fcc0294384085 */
 .footerb6c9fcc0294384085 footer {
