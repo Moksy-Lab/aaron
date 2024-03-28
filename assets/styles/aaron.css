@@ -15,11 +15,18 @@
 	--grey-Color: #7a7a7a;
 	--black-Color: #232323;
 	--main-Background-Color: #ffffff;
+
 	--secondary-Font: "Montserrat", sans-serif;
+
 	--button-padding: 5px 25px;
+
 	--button-border-radius: 5px;
+    --logo-border-radius: 30px;
+
+
 	--button-font-weight: 500;
-	--heading: 35px;
+	--heading-large: 35px;
+    
 }
 .fdb-block {
 	padding: 30px 0;
@@ -27,6 +34,7 @@
 /* headerhdmdp7lm3ya */
 .headerhdmdp7lm3ya .logo{
     max-height: 60px;
+    border-radius: var(--logo-border-radius);
 }
 .headerhdmdp7lm3ya .navbar-light .navbar-nav .nav-link {
 	color: var(--text-Color);
@@ -59,15 +67,16 @@
 .aboutp3dce575962b3c369 .badge {
 	color: var(--alert-Color);
 	background-color: var(--main-Background-Color);
+    margin-left: -10px;
 }
 .aboutp3dce575962b3c369 .DescriptionPara {
 	color: var(--black-Color);
 }
 .aboutp3dce575962b3c369 .searchBtn {
 	padding: var(--button-padding);
-	background-color: var(--primary-Color);
+	background-color: var(--secondary-Color);
 	border: none;
-	color: var(--text-Color);
+	color: var(--main-Background-Color);
 	font-weight: var(--button-font-weight);
 	border-radius: var(--button-border-radius);
 }
