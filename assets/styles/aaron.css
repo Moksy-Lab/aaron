@@ -18,7 +18,7 @@
 	--secondary-Font: "Montserrat", sans-serif;
 	--button-padding: 5px 25px;
 	--button-border-radius: 5px;
-    --logo-border-radius: 30px;
+    --logo-border-radius: 15px;
     --jumbotron-padding: 30px 16px;
     --section-padding:30px 0px;
 	--button-font-weight: 500;
@@ -85,6 +85,9 @@
     .aboutp3dce575962b3c369 .jumbotron {
         padding: var(--jumbotron-padding);
     }
+}
+.aboutp3dce575962b3c369 .descriptionImage .img-fluid{
+    margin-top: 15px;
 }
 /* foremanfto18j2qmk8 */
 .foremanfto18j2qmk8 h1 {
