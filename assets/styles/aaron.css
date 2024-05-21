@@ -30,6 +30,9 @@
 .fdb-block {
     padding: 0rem 0;
 }
+html{
+    scroll-behavior: smooth;
+}
 /* headerhdmdp7lm3ya */
 .headerhdmdp7lm3ya .logo{
     max-height: 60px;
