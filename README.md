@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Greetings from Moksy! New line to commit test  test sfdsf sdfsdf 👋
+=======
+## Greetings from Moksy! 👋
+>>>>>>> b64348253e7854ce93d29245b8efaf2683387478
 
 ### What is Moksy?
 Moksy is your premier destination for open-source and 💯% free professional e-learning templates suitable for both personal and corporate ventures.
